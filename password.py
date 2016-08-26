@@ -1,5 +1,5 @@
 #Password Program
-#By Aidan Sciortino
+#By Aidan Sciortino and Linden Burack
 #Written to teach python
 resetPass = input("Do you want to reset your password? (y/n): ")
 if resetPass == "y":
